@@ -11,8 +11,8 @@ import canvaProImage from "@/assets/canva-pro-mockup.png";
 const pricingPlans = [
   { duration: "1 Month", price: "30৳" },
   { duration: "1 Year", price: "50৳" },
-  { duration: "2 Year", price: "150৳" },
-  { duration: "3 Year", price: "200৳" },
+  { duration: "2 Year", price: "80৳" },
+  { duration: "3 Year", price: "130৳" },
   { duration: "Canva Owner Account", price: "500৳" },
 ];
 
